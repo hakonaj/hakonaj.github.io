@@ -25,7 +25,7 @@ devices. Fortunately the client on my Macbook was able to produce a QR code that
 the client on the phone would recognise and easily added the device to the
 phone. When I added the Macbook/org folder to the phone I had to wait a bit
 before the Macbook asked if I would approve the connection to the phone. All
-good. I was able to access my org-mode file on my phone using [Orgzly]
+good. I was able to access my org-mode file on my phone using [Orgzly].
 
 I assume that the Syncthing client will drain the phone battery and only start
 the client when I want to update my notes. This is not ideal, but gives me more
