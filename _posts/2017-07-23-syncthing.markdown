@@ -19,6 +19,8 @@ devices need to be online at the same time to get synchronised. The main
 difference to services like [Dropbox] and [Google Drive][google-drive] is that
 there is no centralised server. 
 
+![Syncthing WebUI]({{site.url}}/assets/syncthing.png)
+
 I installed the client on all of the devices (described below) and got
 started. The first hurdle was to figure out how to connect two
 devices. Fortunately the client on my Macbook was able to produce a QR code that
